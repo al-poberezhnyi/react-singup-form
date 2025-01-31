@@ -51,7 +51,7 @@
 }
 .titleDescription {
     font-size: 18px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 .formContainer {
@@ -72,6 +72,13 @@
     border-bottom: 2px solid #0078f0;
     margin-bottom: 40px;
     outline-color: #0078f0;
+}
+
+.inputValid {
+    outline-color: #2ac41c;
+}
+.inputInValid {
+    outline-color: #8f0d08;
 }
 
 .btnForm {
